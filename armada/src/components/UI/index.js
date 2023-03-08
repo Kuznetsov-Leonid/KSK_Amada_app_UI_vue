@@ -1,9 +1,9 @@
-import ArmadaButtonLarge from '@/components/UI/ArmadaButtonLarge';
-import ArmadaButtonRegular from '@/components/UI/ArmadaButtonRegular';
-import ArmadaButtonSmall from '@/components/UI/ArmadaButtonSmall';
-import ArmadaButtonLargeOut from '@/components/UI/ArmadaButtonLargeOut';
-import ArmadaButtonRegularOut from '@/components/UI/ArmadaButtonRegularOut';
-import ArmadaButtonSmallOut from '@/components/UI/ArmadaButtonSmallOut';
+import ArmadaButtonLarge from '@/components/UI/buttons/ArmadaButtonLarge';
+import ArmadaButtonRegular from '@/components/UI/buttons/ArmadaButtonRegular';
+import ArmadaButtonSmall from '@/components/UI/buttons/ArmadaButtonSmall';
+import ArmadaButtonLargeOut from '@/components/UI/buttons/ArmadaButtonLargeOut';
+import ArmadaButtonRegularOut from '@/components/UI/buttons/ArmadaButtonRegularOut';
+import ArmadaButtonSmallOut from '@/components/UI/buttons/ArmadaButtonSmallOut';
 
 export default[
     ArmadaButtonLarge,
